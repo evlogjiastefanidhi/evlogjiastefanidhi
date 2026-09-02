@@ -1,7 +1,6 @@
 ## Evlogjia Stefanidhi
 
-Econometrics and Operations Research at Maastricht University. I work on empirical
-macroeconomics, and on getting quantitative results into a form someone can act on.
+Econometrics and Operations Research student at Maastricht University.
 
 **Currently** finishing my BSc, and working as an analyst intern on applicant
 selection: a scorecard built from a survival model of how long founders take to
